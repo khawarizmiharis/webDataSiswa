@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Alya Putri Ramadhani",
+    "nis": "2025001",
+    "className": "XII IPA 1",
+    "major": "Ilmu Pengetahuan Sosial",
+    "email": "alya.putri@sekolah.sch.id",
+    "id": "siswa-1"
+  },
+  {
+    "id": "siswa-3",
+    "name": "Citra Maharani",
+    "nis": "2025003",
+    "className": "XII IPA 2",
+    "major": "Ilmu Pengetahuan Alam",
+    "email": "citra.maharani@sekolah.sch.id"
+  },
+  {
+    "id": "siswa-4",
+    "name": "Daffa Rizky Saputra",
+    "nis": "2025004",
+    "className": "X IPS 1",
+    "major": "Ilmu Pengetahuan Sosial",
+    "email": "daffa.rizky@sekolah.sch.id"
+  },
+  {
+    "id": "siswa-5",
+    "name": "Nadia Zahra Azzahra",
+    "nis": "2025005",
+    "className": "XI IPA 1",
+    "major": "Ilmu Pengetahuan Alam",
+    "email": "nadia.zahra@sekolah.sch.id"
+  },
+  {
+    "id": "siswa-6",
+    "name": "Rafi Alfarizi",
+    "nis": "2025006",
+    "className": "XII IPS 1",
+    "major": "Ilmu Pengetahuan Sosial",
+    "email": "rafi.alfarizi@sekolah.sch.id"
+  },
+  {
+    "name": "khawarizmi",
+    "nis": "1245555",
+    "className": "ttt",
+    "major": "ipa",
+    "email": "khawarizmi826@gmail.com",
+    "id": "293c7db1-a386-4e8b-bbf0-2be6ba5e97ea"
+  }
+]
